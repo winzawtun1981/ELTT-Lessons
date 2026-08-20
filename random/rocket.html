@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Rocket Stages Animation</title>
+<style>
+  body { background: radial-gradient(circle at top, #001f3f, #000); color: white; font-family: Arial, sans-serif; text-align: center; overflow: hidden; }
+  .stage { opacity: 0; transition: opacity 1s ease-in-out; margin: 20px auto; }
+  .rocket { width: 80px; transition: transform 2s ease-in-out; }
+  .arrow { font-size: 2em; color: orange; }
+  .visible { opacity: 1; }
+</style>
+</head>
+<body>
+  <h1>🚀 Why Rockets Have Stages</h1>
+  <div id="stage1" class="stage">
+    <img src="rocket_full.png" class="rocket">
+    <p>1️⃣ Heavy at liftoff — needs lots of fuel!</p>
+  </div>
+  <div class="arrow">⬇️</div>
+  <div id="stage2" class="stage">
+    <img src="rocket_stage1.png" class="rocket">
+    <p>2️⃣ First stage dropped — rocket gets lighter.</p>
+  </div>
+  <div class="arrow">⬇️</div>
+  <div id="stage3" class="stage">
+    <img src="rocket_stage2.png" class="rocket">
+    <p>3️⃣ Second stage fires — faster and more efficient!</p>
+  </div>
+  <div class="arrow">⬇️</div>
+  <div id="stage4" class="stage">
+    <img src="rocket_orbit.png" class="rocket">
+    <p>4️⃣ Final stage reaches orbit 🌍</p>
+  </div>
+
+<script>
+  const stages = document.querySelectorAll('.stage');
+  stages.forEach((stage, i) => {
+    setTimeout(() => stage.classList.add('visible'), i * 2500);
+  });
+</script>
+</body>
+</html>
