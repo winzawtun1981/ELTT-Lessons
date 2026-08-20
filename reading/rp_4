@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="../patterns.css">
+        <title>Action Verbs</title>
+        <style>
+            html *{
+                font-size: 1rem;
+                line-height: 200%;
+            }     
+            hr.dash {
+                border-top: 1px dashed red;
+            }
+            hr.solid {
+                border-top: 0.7px solid grey;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <br>
+            <p class="text-center text-primary" style="font-size: 1.35rem;">စာဖတ်အလေ့အကျင့် ( ၄ )</p>
+            <br>       
+            <br>
+            <div class="card">
+                <div class="card-body">
+                    &#9726; The miners usually prefer to work under the cover of darkness. This dredger is more brazen. It is not yet sunset when the boat's crew begin hoovering sand up from the riverbed and pumping it onto a nearby bank, where it will be collected and sold. At least seven barges are doing the same thing on this stretch of the Red River, about an hour's drive from Hanoi, the capital of Vietnam. Such teams often work without the right permits, but the rewards outweigh the risk. Whereas the average Vietnamese makes $269 a month, miners can earn between $700 and $1000 for every boatload they scoop up. The teams working here have deposited so much sand on the bank that dunes have formed. There has probably never been a better time to be in the sand business. The world uses nearly 50bn tonnes of sand and gravel a year—almost twice as much as a decade ago. No other natural resource is extracted and traded on such an epic scale, bar water.<br>
+                    <br>
+                    ( The Economist - January 18, 2020 )
+                </div>
+            </div>
+            <br>
+            <br>
+            <p>
+                The miners usually prefer to work under the cover of darkness.<br>
+                တူးဖော်သူတွေဟာ အများအားဖြင့် မှောင်ရိပ်ခိုပြီးမှအလုပ်လုပ်ရတာကို ပိုနှစ်သက်ကြတယ်။<br>
+                <br>
+                ( "miner" ဆိုတာ ရွှေ၊ စိန်၊ ကျောက်မီးသွေး အစရှိတာတွေကိုတူးဖော်တဲ့သူကိုခေါ်တာဖြစ်ပါတယ်။ ဒီဝါကျလေးဟာ ရိုးရှင်းပါတယ်။ မှတ်သားစရာအသုံးလေးတစ်ခုကတော့ မှောင်ရိပ်ခိုတာကို "under the cover of darkness" လို့ သုံးသွားတာလေးပါပဲ။ )<br>
+                <br>
+                This dredger is more brazen.<br>
+                ဒီသောင်ခုတ်သင်္ဘောကတော့ ပိုပြီးရဲတင်းပါတယ်။<br>
+                <br>
+                ( "dredger" ဆိုတာ မြစ်အောက်ခြေက ရွှံ့တို့လိုအရာတွေကို စုပ်ထုတ်တဲ့ကိရိယာတပ်ဆင်ထားတဲ့ ရေယာဉ်တစ်မျိုးဖြစ်ပါတယ်။ "brazen" ဆိုတာက အရှက်မရှိတာ၊ မျက်နှာပြောင်၊ ရဲတင်းတာလို့ အဓိပ္ပါယ်ရတဲ့ <span class="text-primary">adjective</span> ဖြစ်ပါတယ်။ )<br>
+                <br>
+                It is not yet sunset<br>
+                နေတောင်မဝင်သေးဘူး<br>
+                <br>
+                when the boat's crew begin hoovering sand up from the riverbed and pumping it onto a nearby bank,<br>
+                သင်္ဘောပေါ်ကအလုပ်သမားတွေ မြစ်ကြမ်းပြင်ကသဲတွေကို စတင်စုပ်ယူပြီး အနီးနားကကမ်းပါးပေါ် စုတ်ထုတ်တဲ့အချိန်မှာ ( နေတောင်မဝင်သေးဘူး )<br>
+                <br>
+                ( "hoover" ဆိုတာက ဖုန်စုပ်စက်အမှတ်တံဆိပ်တစ်ခုကနေ ဖြစ်ပေါ်လာတဲ့စကားလုံးဖြစ်ပါတယ်။ "Hoover Company" ကနေထုတ်လုပ်တဲ့ "Hoover" အမှတ်တံဆိပ် ဖုန်စုပ်စက်ကနေ "hoover (ဖုန်စုပ်သည်)" ဆိုတဲ့ ကြိယာအဖြစ် အသုံးပြုထားခြင်းဖြစ်ပါတယ်။ "hoover up" ကတော့ ပမာဏများစွာစုပ်ယူ/ရယူသည်လို့ အဓိပ္ပါယ်ရတဲ့ <span class="text-primary">separable phrasal verb</span> ဖြစ်ပါတယ်။ )<br>
+                <br>
+                where it will be collected and sold<br>
+                အဲဒီကမ်းပါးက(စုပ်ထုတ်ထားတဲ့)သဲတွေကို ယူပြီး ရောင်းစားကြလိမ့်မယ်<br>
+                <br>
+                ( "... a nearby bank, where..." လို့သုံးထားတာက <span class="text-primary">non-defining relative clause</span> ဖြစ်ပါတယ်။  )
+            </p>
+            <br>
+            <p>
+                အခုဝါကျလေးကို အစကနေ ပြန်ကောက်ကြည့်ရအောင်
+            </p>
+            <div class="card">
+                <div class="card-body">
+                    It is not yet sunset when the boat's crew begin hoovering sand up from the riverbed and pumping it onto a nearby bank, where it will be collected and sold.
+                    <hr class="dash2">
+                    သင်္ဘောပေါ်ကအလုပ်သမားတွေ မြစ်ကြမ်းပြင်ကသဲတွေကို စတင်စုပ်ယူပြီး အနီးနားကကမ်းပါးပေါ် စုတ်ထုတ်တဲ့အချိန်မှာ နေတောင်မဝင်သေးဘူး။ အဲဒီကမ်းပါးက(စုပ်ထုတ်ထားတဲ့)သဲတွေကို ယူပြီး ရောင်းစားကြလိမ့်မယ်။
+                </div>
+            </div>
+            <br>
+            <p>
+               အခုဝါကျလေးကို ခွဲခြမ်းစိတ်ဖြာကြည့်ရအောင် 
+            </p>
+            <div class="card">
+                <div class="card-body">
+                    အခုဝါကျဟာ <span class="text-primary">compound-complex sentence</span> ဖြစ်ပါတယ်။ "It is not yet sunset" ဆိုတဲ့ <span class="text-primary">simple sentence(main clause)</span> နဲ့ "when the boat's crew begin hoovering sand up from the riverbed and pumping it onto a nearby bank, where it will be collected and sold" ဆိုတဲ့ <span class="text-primary">dependent clause</span> နှစ်ခု ပေါင်းစပ်ထားတာဖြစ်ပါတယ်။ <span class="text-primary">dependent clause</span> ထဲမှာမှ "the boat's crew begin hoovering sand up from the riverbed" နဲ့ "(the boat's crew begin) pumping it onto a nearby riverbed" ဆိုတဲ့ ဝါကျနှစ်ကြောင်းကို "and" ဆိုတဲ့ <span class="text-primary">conjunction</span> နဲ့ ဆက်ပြီး <span class="text-primary">compound sentence</span> ဖြစ်စေပါတယ်။ အဲဒီ <span class="text-primary">compound sentence</span> ကိုမှ "when" ဆိုတဲ့ <span class="text-primary">conjunction</span> နဲ့ဆက်လိုက်ပြီး <span class="text-primary">dependent clause</span> ဖြစ်စေပါတယ်။ "where it will be collected and sold" ဆိုတာက "a nearby bank" ကို အထူးပြုထားတဲ့ <span class="text-primary">non-defining relative clause</span>  ဖြစ်ပါတယ်။         
+                </div>
+            </div>
+            <br>
+            <br>
+            <br>
+            <p>
+                At lease seven barges are doing the same thing<br>
+                အနည်းဆုံး ဝမ်းပြားရေယာဉ် ခုနစ်စင်းတို့ဟာ ဒီလိုလုပ်နေကြတယ် (သဲတွေစုပ်ထုတ်နေကြတယ်)<br>
+                <br>
+                ( "barge" ဆိုတာဟာ ကုန်စည်နဲ့ လူတွေတင်တဲ့ ဝမ်းပြားရေယာဉ်တစ်မျိုးဖြစ်ပါတယ်။ )
+                <br>
+                <br>
+                on this stretch of the Red River,<br>
+                မြစ်နီမြစ်ရဲ့ ဒီဘက်တစ်ကြောမှာ (သဲတွေစုပ်ထုတ်နေကြတယ်)<br>
+                <br>
+                about an hour's drive from Hanoi, the capital of Vietnam<br>
+                ဗီယက်နမ်ရဲ့မြို့တော်ဟနွိုင်းကနေ တစ်နာရီလောက်ကားစီးပြီးရောက်တဲ့အကွာမှာရှိတဲ့ (မြစ်နီမြစ်)
+            </p>                    
+            <p>
+                အခုဝါကျလေးကို အစကနေ ပြန်ကောက်ကြည့်ရအောင်
+            </p>
+            <div class="card">
+                <div class="card-body">
+                    At least seven barges are doing the same thing on this stretch of the Red River, about an hour's drive from Hanoi, the capital of Vietnam.
+                    <hr class="dash2">
+                    ဗီယက်နမ်ရဲ့မြို့တော်ဟနွိုင်းကနေ တစ်နာရီလောက်ကားစီးပြီးရောက်တဲ့အကွာမှာရှိတဲ့ မြစ်နီမြစ်ရဲ့ ဒီဘက်တစ်ကြောမှာ  အနည်းဆုံး ဝမ်းပြားရေယာဉ် ခုနစ်စင်းတို့ဟာ သဲတွေစုပ်ထုတ်နေကြတယ်။
+                </div>
+            </div>
+            <br>
+            <p>
+               အခုဝါကျလေးကို ခွဲခြမ်းစိတ်ဖြာကြည့်ရအောင် 
+            </p>
+            <div class="card">
+                <div class="card-body">
+                    အခုဝါကျကိုကြည့်လိုက်မယ်ဆို "seven barges"(<span class="text-primary">subject</span>) + "are doing"(<span class="text-primary">verb</span>) + "the same thing"(<span class="text-primary">object</span>) လို့ တွေ့ရမှာဖြစ်ပါတယ်။ "on this stretch of the red river" က နေရာပြပုဒ်ဖြစ်ပြီး သဲတွေကို ဘယ်နေရာမှာစုပ်ထုပ်နေတယ်ဆိုတာကို ဖော်ပြပေးပါတယ်။ "about half ann hour's drive from Hanoi" က မြစ်ရဲ့တည်နေရာကိုဖော်ပြဖို့ "which was about half an hour's drive from Hanoi" ဆိုတဲ့ <span class="text-primary">relative clause</span> ကို "which was" ဖြုတ်ပြီး ချုံ့ရေးထားတာဖြစ်ပါတယ်။ "the capital of Vietnam" ဆိုတာက "Hanoi" ကို ဖော်ပြဖို့သုံးထားတဲ့ နာမ်အထူးပြုပုဒ်(<span class="text-primary">nouns in apposition</span>) ဖြစ်ပါတယ်။
+                </div>
+            </div>
+            <br>
+            <br>
+            <p>
+                Such teams often work without the right permits,<br>
+                ဒီလိုအဖွဲ့တွေဟာ အများအားဖြင့် တရားဝင်ခွင့်ပြုချက်မပါဘဲ အလုပ်လုပ်ကြတယ်<br>
+                <br>
+                but the rewards outweigh the risk.<br>
+                ဒါပေမယ့် ဆုလာဘ်က အန္တရာယ်ထက် ပိုပြီးအလေးသာနေပါတယ်။<br>
+                <br>
+                ( "reward" ဆိုတာက ဒီနေရာမှာတော့ ပိုက်ဆံတွေရတာကို ပြောတာဖြစ်ပါတယ်။ "outweigh" က ချိန်ခွင်ထဲမှာထည့်ချိန်တဲ့အခါ တစ်ဖက်ဖက်က အလေးသာတဲ့သဘောမျိုးဖြစ်ပါတယ်။ "risk" က (တစ်ခုခုဖြစ်လာနိုင်တဲ့)အန္တရာယ် လို့ ဆိုလိုတာဖြစ်ပါတယ်။ ဒီနေရာမှာတော့ သဲတွေခိုးတူးလို့ ရဲတွေလာရင် အဖမ်းခံရနိုင်တဲ့အန္တရာယ်လို့ နားလည်ရမှာဖြစ်ပါတယ်။ အဲဒီလို ဖြစ်နိုင်တဲ့ အန္တရာယ်ထက် သဲတွေခိုးတူးပြီးရောင်းလိုက်ရင် ရလာမယ့် အကျိုးအမြတ်က ပိုသာနေတယ်လို့ ဆိုလိုတာဖြစ်ပါတယ်။ )<br>
+                <br>
+            </p>
+            <p>
+                အခုဝါကျလေးကို အစကနေ ပြန်ကောက်ကြည့်ရအောင်
+            </p>
+            <div class="card">
+                <div class="card-body">
+                    Such teams often work without the right permits, but the rewards outweigh the risk.
+                    <hr class="dash2">
+                    ဒီလိုအဖွဲ့တွေဟာ အများအားဖြင့် တရားဝင်ခွင့်ပြုချက်မပါဘဲ အလုပ်လုပ်ကြတယ်။ ဒါပေမယ့် ဆုလာဘ်က အန္တရာယ်ထက် ပိုပြီးအလေးသာနေပါတယ်။
+                </div>
+            </div>
+            <br>
+            <p>အခုဝါကျလေးကို ခွဲခြမ်းစိတ်ဖြာကြည့်ရအောင်</p>
+            <div class="card">
+                <div class="card-body">
+                    အခုဝါကျက <span class="text-primary">compound sentence</span> ဖြစ်ပါတယ်။ ဝါကျနှစ်ကြောင်းကို "but" ဆိုတဲ့ <span class="text-primary">coordinating conjunction</span> နဲ့ ဆက်ထားပေးပါတယ်။ 
+                </div>
+            </div>
+            <br>
+            <br>
+            <p>
+                Whereas the average Vietnamese makes $269 a month,<br>
+                သာမန်ဗီယက်နမ်လူမျိုးတစ်ယောက်ဟာ တစ်လကို 269 ဒေါ်လာဝင်ကြပေမယ့်<br>
+                <br>
+                ( "whereas" ဟာ ဝါကျနှစ်ကြောင်းရဲ့ မတူညီတဲ့အချက်ကို နှိုင်းယှဉ်ပြဖို့အသုံးပြုတဲ့ <span class="text-primary">conjunction</span> ဖြစ်ပါတယ်။ )<br>
+                <br>
+                miners can earn between $700 and $1000 for every boatload they scoop up.<br>
+                (သဲ)တူးဖော်သူတွေကတော့ သူတို့ဆယ်ယူလိုက်တဲ့သင်္ဘောတစ်စီးစာသဲတွေအတွက် ဒေါ်လာ 700 ကနေ 1000 လောက်အထိရကြပါတယ်။<br>
+                <br>
+                ( "boatload" ဆိုတာက သင်္ဘောတစ်စီးစာလို့ ဆိုလိုတာဖြစ်ပါတယ်။ "load" ဟာ တစ်စုံတစ်ရာက သယ်ယူနိုင်တဲ့/ဝင်ဆံ့တဲ့ပမာဏကို ဖော်ပြပါတယ်။ "truckload/busload" စသည်ဖြင့်လည်း ပုံစံမျိုးစုံနဲ့ အသုံးပြုကြပါတယ်။ "scoop up" ဆိုတာဟာ တစ်စုံတစ်ခုကို ပမာဏများစွာ ကော်ယူလိုက်တယ်လို့အဓိပ္ပါယ်ရတဲ့ <span class="text-primary">phrasal verb</span> ဖြစ်ပါတယ်။ )
+                <br>
+            </p>
+            <p>
+                အခုဝါကျလေးကို အစကနေ ပြန်ကောက်ကြည့်ရအောင်
+            </p>
+            <div class="card">
+                <div class="card-body">
+                    Whereas the average Vietnamese makes $269 a month, miners can earn between $700 and $1000 for every boatload they scoop up.
+                    <hr class="dash2">
+                    သာမန်ဗီယက်နမ်လူမျိုးတစ်ယောက်ဟာ တစ်လကို 269 ဒေါ်လာဝင်ကြပေမယ့် (သဲ)တူးဖော်သူတွေကတော့ သူတို့ဆယ်ယူလိုက်တဲ့သင်္ဘောတစ်စီးစာသဲတွေအတွက် ဒေါ်လာ 700 ကနေ 1000 လောက်အထိရကြပါတယ်။
+                </div>
+            </div>
+            <br>
+            <p>အခုဝါကျလေးကို ခွဲခြမ်းစိတ်ဖြာကြည့်ရအောင်</p>
+            <div class="card">
+                <div class="card-body">
+                    အခုဝါကျဟာ နားလည်ရမခက်ပါဘူး။ မတူညီတဲ့အချက်နှစ်ခုကိုဖော်ပြဖို့ ဝါကျနှစ်ကြောင်းကို "whereas" နဲ့ ဆက်ထားပေးတာဖြစ်ပါတယ်။ 
+                </div>
+            </div>
+            <br>
+            <br>
+            <p>
+                The teams working here have deposited so much sand on the bank that dunes have formed.<br>
+                ဒီမှာအလုပ်လုပ်နေတဲ့အဖွဲ့တွေဟာ ကမ်းပါးပေါ်သဲတွေပုံထားတာများလွန်းလို့ သဲခုံတွေတောင်ပေါ်လာခဲ့ပါတယ်။<br>
+                <br>
+            </p>
+            <p>အခုဝါကျလေးကို ခွဲခြမ်းစိတ်ဖြာကြည့်ရအောင်</p>
+            <div class="card">
+                <div class="card-body">
+                    "the teams working here" ဆိုတာဟာ "the teams that are working here" ဆိုတဲ့ <span class="text-primary">relative clause</span> ကို ချုံ့ရေးထားတာဖြစ်ပါတယ်။ ဒီဝါကျမှာသုံးထားတဲ့ "so that" ပုံစံလေးကို သတိထားကြည့်ပါ။ သူတို့ဟာ သဲတွေဆယ်ယူ၊ ပြီးရင် ကမ်းပါးပေါ်ပုံထားနဲ့လုပ်လိုက်တာ သဲတွေကိုကမ်းပါးပေါ်တင်ထားတာများလွန်းလို့ သဲခုံတွေတောင်ပေါ်လာခဲ့တယ်လို့  ဆိုလိုတာဖြစ်ပါတယ်။ 
+                </div>
+            </div>
+            <br>
+            <p>
+                There has probably never been a better time to be in the sand business.<br>
+                သဲလုပ်ငန်းလုပ်ကိုင်ဖို့ အခုထက်ပိုကောင်းတဲ့အချိန်မရှိခဲ့နိုင်တဲ့ပုံပါပဲ။<br>
+                ( အခုအချိန်ဟာ သဲလုပ်ငန်းလုပ်ကိုင်ဖို့ အကောင်းဆုံးအချိန်ဖြစ်ကောင်းဖြစ်နိုင်တယ်လို့ ဆိုလိုတာဖြစ်ပါတယ်။ အခုဝါကျမှာ မှတ်သားစရာအသုံးလေးတစ်ခုကတော့ "စီးပွားရေး/လုပ်ငန်းတစ်မျိုးမျိုးလုပ်ကိုင်သည်" လို့ အဓိပ္ပါယ်ရတဲ့ "in the + noun + business" ဆိုတဲ့အသုံးလေးပါပဲ။ "in the software/computer business" အစရှိသဖြင့် အသုံးပြုလို့ရပါတယ်။ )<br>
+                <br>
+            </p>
+            <p>
+                The world uses nearly 50bn tonnes of sand and gravel a year<br>
+                တစ်ကမ္ဘာလုံးမှာ နှစ်စဉ် သဲနဲ့ကျောက် အသုံးပြုမှုဟာ တန်ချိန် 50 ဘီလီယံနီးပါးရှိပါတယ်<br>
+                <br>
+                —almost twice as much as a decade ago.<br>
+                (အဲဒီ တန်ချိန် 50 ဘီလီယံ ဆိုတာဟာ) လွန်ခဲ့တဲ့ဆယ်စုနှစ်က အသုံးပြုမှုရဲ့ နှစ်ဆဖြစ်ပါတယ်။<br>
+                <br>
+            </p>
+            <p>
+                အခုဝါကျလေးကို အစကနေ ပြန်ကောက်ကြည့်ရအောင်
+            </p>
+            <div class="card">
+                <div class="card-body">
+                    The world uses nearly 50bn tonnes of sand and gravel a year—almost twice as much as a decade ago.
+                    <hr class="dash2">
+                    တစ်ကမ္ဘာလုံးမှာ နှစ်စဉ် သဲနဲ့ကျောက် အသုံးပြုမှုဟာ တန်ချိန် 50 ဘီလီယံနီးပါးရှိပါတယ်။ (အဲဒီ တန်ချိန် 50 ဘီလီယံ ဆိုတာဟာ) လွန်ခဲ့တဲ့ဆယ်စုနှစ်က အသုံးပြုမှုရဲ့ နှစ်ဆဖြစ်ပါတယ်။
+                </div>
+            </div>
+            <br>
+            <p>အခုဝါကျလေးကို ခွဲခြမ်းစိတ်ဖြာကြည့်ရအောင်</p>
+            <div class="card">
+                <div class="card-body">
+                    The world(<span class="text-primary">subject</span>) + uses(<span class="text-primary">verb</span>) + nearly 50bn tonnes of sand and gravel(<span class="text-primary">object</span>) + a year(<span class="text-primary">adverb of frequency</span>) ပုံစံဖြစ်ပါတယ်။ "—almost twice as much as a decade ago" ဆိုတာက 50bn tonnes ဆိုတဲ့ပမာဏဟာ ဘယ်လောက်နဲ့ညီမျှတယ်ဆိုတာကို ဖော်ပြပါတယ်။
+                </div>
+            </div>
+            <br>
+            <br>
+            <p>
+                No other natural resource is extracted and traded on such an epic scale,<br>
+                အခြားဘယ်သဘာဝသယံဇာတကိုမှ ဒီလောက်များပြားတဲ့ပမာဏနဲ့ ထုတ်ယူ၊ ရောင်းဝယ်ခြင်းမရှိဘူး<br>
+                ( "on such an epic scale" ဆိုတာက "ဒီလောက်များပြားစွာ" လို့ အဓိပ္ပါယ်ရတဲ့ ကြိယာဝိသေသနစကားစုဖြစ်ပါတယ်။ )<br>
+                <br>
+                bar water<br>
+                ရေကလွဲလို့ပေါ့<br>
+                ( "bar" ဟာ ဒီနေရာမှာ <span class="text-primary">preposition</span> ဖြစ်ပြီး "မှတစ်ပါး" လို့ အဓိပ္ပါယ်ရပါတယ်။ )<br>
+                <br>
+                <p>
+                    အခုဝါကျလေးကို အစကနေ ပြန်ကောက်ကြည့်ရအောင်
+                </p>
+                <div class="card">
+                    <div class="card-body">
+                        No other natural resource is extracted and traded on such an epic scale, bar water.
+                        <hr class="dash2">
+                        ရေကလွဲလို့ အခြားဘယ်သဘာဝသယံဇာတကိုမှ ဒီလောက်များပြားတဲ့ပမာဏနဲ့ ထုတ်ယူ၊ ရောင်းဝယ်ခြင်းမရှိဘူး။
+                    </div>
+                </div>
+                <br>
+                <p>အခုဝါကျလေးကို ခွဲခြမ်းစိတ်ဖြာကြည့်ရအောင်</p>
+                <div class="card">
+                    <div class="card-body">
+                        No other natural resource(<span class="text-primary">subject</span>) + is extracted and traded(<span class="text-primary">verb</span>) ပုံစံဖြစ်ပြီး <span class="text-primary">verb</span> ဟာ <span class="text-primary">passive voice</span> ဖြစ်ပါတယ်။ on such an epic scale နဲ့ bar water တို့ဟာ ကြိယာဝိသေသနစကားစုများဖြစ်ပါတယ်။
+                    </div>
+                </div>
+            </p>
+            <div><span class="text-primary font-weight-bold">Source :</span>
+                <span class="font-weight-bold">The Economist Magazine</span></div>
+            <hr>
+            <p class="text-center"><span class="font-weight-bold">English Learners' Treasure Trove by Win Zaw Tun (Mogok)</span></p>
+            <hr>
+        </div>
+    </body>
+</html>

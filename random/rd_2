@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<html>
+
+    <head>
+        <link rel="stylesheet" type="text/css" href="../patterns.css">
+        <title>Causative</title>
+        <style>
+            html *{
+                line-height: 200%;
+                font-size: 1rem;
+            }
+            hr.dash {
+                border-top: 1px dashed red;
+            }
+            .card-header {
+              text-align: center;
+            }
+        </style>
+    </head>
+
+    <body>
+        <div class="container">
+            <br>
+            <p class="text-center" style="font-weight: bold; font-size: 1.35rem;">ရောက်တတ်ရာရာ အင်္ဂလိပ်စာ (၂)</p>
+            <br>
+            <p>
+                ကြယ်တွေစုံတဲ့ည ကို <span class="font-weight-bold">starry night</span> လို့ ခေါ်တယ်။ ကြယ်တွေစုံတဲ့ကောင်းကင်ကို <span class="font-weight-bold">starry sky</span> ဒါမှမဟုတ် <span class="font-weight-bold">star-studded sky</span> လို့ ပြောလို့ရတယ်။ ကြယ်တွေစုံတဲ့ကောင်းကင်ဟာ မြို့ပြမှာနေထိုင်တဲ့သူတွေအတွက်တော့ မရနိုင်တဲ့အရာတစ်ခုပေါ့။ ဘာကြောင့်လဲဆိုတော့ အလင်းညစ်ညမ်းမှု (<span class="font-weight-bold">light pollution</span>) ကြောင့်ပါပဲ။ လူတွေထွန်းလင်းထားတဲ့ လမ်းမီး၊ အိမ်မီးတွေ များပြားလွန်းတဲ့အတွက် ညကောင်းကင်အလှကို ခံစားဖို့ မဖြစ်နိုင်တော့ဘူးပေါ့။
+            </p>
+            <p>
+                သင်ဟာ ငယ်ငယ်က ကျေးလက် (<span class="font-weight-bold">country</span>) ဘက်မှာ နေခဲ့ဖူးရင် ဒါမှမဟုတ် <span class="font-weight-bold">light pollution</span> တွေ မရှိခင်က ညဘက် ကြယ်တွေစုံတဲ့ကောင်းကင်ကို မော့ကြည့်ပြီး ကြယ်တွေကို ငေးကြည့်ခဲ့ဖူးမှာပါ။ အဲဒီကြယ်တွေဟာ ဘယ်လောက်ဝေးလဲ အဲဒီမှာ သက်ရှိတွေကော ရှိနိုင်လားလို့ သင် စဉ်းစားခဲ့ဖူးပါသလား။ စကြာဝဠာထဲက အကွာအဝေးကို မိုင်နှုန်းနဲ့ မတိုင်းတာပါဘူး။ အလင်းနှစ် (<span class="font-weight-bold">light year</span>) နဲ့ တိုင်းတာပါတယ်။ အလင်းဟာ စကြာဝဠာထဲမှာ အမြန်ဆုံးသောအရာပဲဖြစ်တယ်။ တစ်စက္ကန့်ကို 186,000 မိုင် အမြန်နှုန်းရှိတယ်။ အဲဒါကိုမှ တစ်နှစ်လုံးမှာသွားတဲ့အကွာအဝေးဆိုတော့ အလင်းနှစ်တစ်နှစ် (<span class="font-weight-bold">one light year</span>) ဟာ အင်မတန်ကိုမှ ဝေးကွာတဲ့ အကွာအဝေးပဲပေါ့။ 
+            </p>
+            <p>
+                ကြယ်တွေဟာ သူ့ဘာသာ သီးခြားမနေကြဘဲ နဂါးငွေ့တန်း (<span class="font-weight-bold">galaxy</span>) အစုအဖွဲ့နဲ့ တည်ရှိကြတယ်။ နဂါးငွေ့တန်းတွေဟာ တစ်ခုနဲ့တစ်ခု အလင်းနှစ် သန်းပေါင်းများစွာ ဝေးကွာကြတယ်။ ကျွန်တော်တို့ကို အပူဓာတ်နဲ့ အလင်းပေးနေတဲ့ နေမင်းကြီးဟာလည်း ကြယ်တစ်လုံးပါပဲ။ အဲဒီတော့ သူဟာ ကမ္ဘာနဲ့ အနီးဆုံးကြယ်ပဲပေါ့။ နေမင်းကြီးကို ဗဟိုပြုပြီး ကမ္ဘာအပါအဝင် ဂြိုဟ် (<span class="font-weight-bold">planet</span>) ရှစ်လုံးက လည်ပတ်နေကြတယ်။ ဒါကို နေအဖွဲ့အစည်း (<span class="font-weight-bold">solar system</span>) လို့ခေါ်တယ်။ ကျွန်တော်တို့ နေအဖွဲ့အစည်းဟာ <span class="font-weight-bold">Milky Way</span> လို့ခေါ်တဲ့ နဂါးငွေ့တန်းအစုအဖွဲ့မှာ တည်ရှိပါတယ်။
+            </p>
+            <p>
+                တကယ်တော့ ကြယ်တွေဆိုတာဟာ အလျှံတညီးညီး တောက်လောင်နေတဲ့ ကြီးမားတဲ့ဓာတ်ငွေ့လုံး (<span class="font-weight-bold">huge glowing balls of gas</span>) တွေ ဖြစ်ကြတယ်။ ကြယ်တွေဟာ သူတို့ရဲ့စွမ်းအင်ကို အနုမြူပေါင်းစပ်ဓာတ်ပြုခြင်း (<span class="font-weight-bold">nuclear fusion reaction</span>) ကနေ ရရှိကြတယ်။ ကျွန်တော်တို့နေမင်းကြီးဟာ စက္ကန့်တိုင်းမှာ ဟိုက်ဒရိုဂျင်ဗုံး အလုံးပေါင်း ၁၀၀ ဘီလီယံနဲ့ ညီမျှတဲ့ စွမ်းအင်တွေကို ထုတ်လွှတ်နေတယ်။ 
+            </p>
+            <p>
+                နေ အပါအဝင် ကြယ်တွေဟာ စွမ်းအင်တွေကို ထာဝရ အကန့်အသတ်မဲ့ ရနေတာတော့ မဟုတ်ပါဘူး။ တစ်နေ့နေ့ တစ်ချိန်ချိန်မှာတော့ သူတို့ရဲ့ လောင်စာ (<span class="font-weight-bold">fuel</span>) တွေဟာ ကုန်ဆုံးသွားမှာပါ။ ကြယ်တွေဟာ လောင်စာကုန်ခန်းပြီး သက်တမ်းကုန်ဆုံးတဲ့အခါ ပေါက်ကွဲပျက်စီးသွားကြတယ်။ အဲဒီလို ကြယ်တွေပေါက်ကွဲတာကို <span class="font-weight-bold">supernova</span> လို့ခေါ်တယ်။ <span class="font-weight-bold">supernova</span> ဟာ ဘယ်လောက်လင်းသလဲဆို သူတည်ရှိနေတဲ့နဂါးငွေ့တန်းတစ်ခုလုံးထက်ကို ပိုပြီးတောက်ပပါတယ်တဲ့။ အဲဒါကို <span class="font-weight-bold">A supernova outshines its entire galaxy</span> လို့ ပြောပါတယ်။  
+            </p>
+            <p>
+                အချို့သော ထုထည်အရမ်းကြီးမားတဲ့ကြယ်များဟာ သက်တမ်းကုန်ချိန်မှာ သူတို့ရဲ့ဆွဲအား (<span class="font-weight-bold">gravity</span>) အောက်မှာ ပြိုလဲပြီး တွင်းနက် (<span class="font-weight-bold">black hole</span>) တွေအဖြစ် ပြောင်းလဲသွားပါတယ်။ တွင်းနက်တွေရဲ့ဆွဲအားဟာ ပြင်းထန်လွန်းလို့ စကြာဝဠာထဲမှာ အမြန်ဆုံးဆိုတဲ့ အလင်းတောင် သူတို့ဆွဲအားကနေ လွှတ်အောင်မရုန်းနိုင်ပါဘူး။ 
+            </p>
+            <p>
+                ကျွန်တော်တို့ရဲ့ နေမင်းကြီးဟာလည်း ကြယ်တစ်လုံးဖြစ်တဲ့အတွက် တစ်နေ့နေ့မှာတော့ လောင်စာတွေ ကုန်ခန်းသွားမှာပါ။ အဲဒီအချိန်ရောက်တဲ့အခါ နေမင်းကြီးဟာ ကြယ်နီကြီး (<span class="font-weight-bold">a red giant star</span>) အဖြစ် ပြောင်းလဲသွားမှာပါ။ ကြယ်နီကြီးဆိုတာဟာ အခုလက်ရှိနေမင်းထက် အဆပေါင်းများစွာဖောင်းကားသွားတဲ့ ကြယ်တစ်လုံးပဲဖြစ်ပါတယ်။ အဲဒီ တစ်နေ့နေ့ဆိုတာ ကျွန်တော်တို့အတွက်တော့ အလွန်ကိုဝေးကွာလွန်းပါသေးတယ်။ နေမင်းကြီးဟာ နောင်လာမယ့်နှစ်ပေါင်း 5 ဘီလီယံလောက်မှာ လောင်စာကုန်ခန်းသွားမှာပါ။ 
+            </p>
+            <p>
+                အဲဒီအချိန်ရောက်ရင် လူသားမျိုးနွယ်တွေဟာ ဒီကမ္ဘာပေါ်မှာ ကျန်ရှိနေဦးမှာလား အဲဒီမတိုင်ခင် အကြာကြီးကတည်းက မျိုးသုဉ်းနေမှာလားဆိုတာတော့ ဘယ်သူမှ မသိပါဘူး။ ဘာပဲဖြစ်ဖြစ် နေမင်းကြီး လောင်စာကုန်ခန်းသွားတယ်ဆိုတာ ကျွန်တော်တို့အတွက် စိုးရိမ်ရမယ့်ကိစ္စ မဟုတ်သေးပါဘူး။ <span class="font-weight-bold">the least of our worries</span> ပေါ့။ အဲဒီအချိန်မတိုင်ခင် လူတွေဟာ စကြာဝဠာခရီးသည် (<span class="font-weight-bold">interstellar traveller</span>) တွေဖြစ်ကုန်မလားဆိုတာတော့ ကျွန်တော် ကိုယ့်ကိုယ်ကို မကြာမကြာမေးဖြစ်တဲ့ မေးခွန်းတစ်ခုပေါ့။ 
+            </p>  
+            <p style="font-weight: bold; font-size: 1.15rem">Glossary</p>
+            <p>
+                <ul>
+                    <li>
+                        <span class="text-primary"; style="font-size: 1.1rem">light pollution</span> - the existence of too much artificial light in the environment, for example from street lights, which makes it difficult to see the stars
+                    </li>
+                    <li>
+                        <span class="text-primary"; style="font-size: 1.1rem">light year</span> - the distance that light travels in one year, about 9,460,000,000,000 kilometers, used for measuring distances between stars
+                    </li>
+                    <li>
+                        <span class="text-primary"; style="font-size: 1.1rem">galaxy</span> - any of the large systems of stars, etc. in outer space
+                    </li>
+                    <li>
+                        <span class="text-primary"; style="font-size: 1.1rem">planet</span> - a large round object in space that moves around a star (such as the sun) and receives light from it
+                    </li>
+                    <li>
+                        <span class="text-primary"; style="font-size: 1.1rem">solar system</span> - the sun and all the planets that move around it
+                    </li>
+                    <li>
+                        <span class="text-primary"; style="font-size: 1.1rem">Milky Way</span> - a band of light across the night sky made up of a huge number of stars that form a larger part of the galaxy that includes our sun and its planets
+                    </li>
+                    <li>
+                        <span class="text-primary"; style="font-size: 1.1rem">nuclear fusion</span> - the act or process of combining the nuclei (=central parts) of atoms to form a heavier nucleus, with energy being released
+                    </li>
+                    <li>
+                        <span class="text-primary"; style="font-size: 1.1rem">supernova</span> - a star that suddenly becomes much brighter because it is exploding
+                    </li>
+                    <li>
+                        <span class="text-primary"; style="font-size: 1.1rem">gravity</span> - the force that attracts objects in space towards each other, and that on the earth pulls them towards the center of the planet, so that things fall to the ground when they are dropped
+                    </li>
+                    <li>
+                        <span class="text-primary"; style="font-size: 1.1rem">black hole</span> - an area in space that nothing, not even light, can escape from, because gravity is so strong there
+                    </li>
+                    <li>
+                        <span class="text-primary"; style="font-size: 1.1rem">red giant</span> - a large star towards the end of its life that is relatively cool and gives out a red light
+                    </li>
+                    <li>
+                        <span class="text-primary"; style="font-size: 1.1rem">interstellar</span> - between the stars in the sky
+                    </li>
+                </ul>
+            </p>            
+            <br>
+            <div><span class="text-primary font-weight-bold">Reference : </span> <span class="font-weight-bold">Internet, OALD 10</span></div>
+            <hr>
+            <p class="text-center"><span class="font-weight-bold">English Learners' Treasure Trove by Win Zaw Tun (Mogok)</span></p>
+            <hr>
+        </div>
+    </body>
+</html>

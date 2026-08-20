@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="../patterns.css">
+        <title>Action Verbs</title>
+        <style>
+            html *{
+                font-size: 1rem;
+                line-height: 200%;
+            }     
+            hr.dash {
+                border-top: 1px dashed red;
+            }
+            hr.solid {
+                border-top: 0.7px solid grey;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <br>
+            <p class="text-center text-primary" style="font-size: 1.35rem;">စာဖတ်အလေ့အကျင့် ( ၁၀ )</p>
+            <br>       
+            <br>
+            <div class="card">
+                <div class="card-body">
+                    &#9726; New Yorkers are used to dealing with weather, said Michael Wilson in The New York Times. But not weather like this. Last week, smoke from wildfires hundreds of miles away enveloped the city, along with Boston and others on the east coast, in an acrid orange-grey haze. The air quality index for NYC gradually rose from "Unhealthy" to "Very Unhealthy" to "Hazardous". At one point, it hit the worst level of any major city in the world. Drivers put their headlights on at midday as they struggled to see their way under the blotted-out sky. Thousands of flights were grounded. Pavements and playgrounds emptied as people opted to stay indoors, while many of those who ventured out wore masks. On Broadway, the play Prima Facie stopped ten minutes into the performance after its star, Jodie Comer, experienced difficulty breathing.<br>
+                    <br>
+                    ( The Week - June 17, 2023 )
+                </div>
+            </div>
+            <br>
+            <br>
+            <p>
+                New Yorkers are used to dealing with weather,<br>
+                နျူးယော့ခ်မြို့သူမြို့သားတွေဟာ ရာသီဥတုဆိုးထဲသွားလာရတာ နေသားကျနေပြီ<br>
+                <br>
+                said Michael Wilson in The New York Times.<br>
+                မိုက်ကယ်ဝီလ်ဆင်က New York Times သတင်းစာထဲ(ကဆောင်းပါးတစ်ပုဒ်)မှာ ပြောပါတယ်။<br>
+            </p>
+            <p>
+                အခုဝါကျလေးကို အစကနေ ပြန်ကောက်ကြည့်ရအောင်
+            </p>
+            <div class="card">
+                <div class="card-body">
+                    New Yorkers are used to dealing with weather, said Michael Wilson in The New York Times.
+                    <hr class="dash2">
+                    နျူးယော့ခ်မြို့သူမြို့သားတွေဟာ ရာသီဥတုဆိုးထဲသွားလာရတာ နေသားကျနေပြီလို့ မိုက်ကယ်ဝီလ်ဆင်က New York Times သတင်းစာထဲ(ကဆောင်းပါးတစ်ပုဒ်)မှာ ပြောပါတယ်။
+                </div>
+            </div>
+            <br>
+            <p>
+                အခုဝါကျလေးထဲက မှတ်သားစရာလေးတွေကိုကြည့်ရအောင်
+            </p>
+            <div class="card">
+                <div class="card-body">
+                    အခုဝါကျမှာ "weather" ဟာ ရိုးရိုး "ရာသီဥတု" လို့ပဲပြောတာမဟုတ်ပါဘူး။ ဆိုးဝါးတဲ့ရာသီဥတုအခြေအနေကိုပြောတာဖြစ်ပါတယ်။ "weather" ကို OALD တို့လို learner's dictionary မှာရှာကြည့်တဲ့အခါ "ရာသီဥတုအခြေအနေ" ဆိုတဲ့အဓိပ္ပါယ်မျိုးပဲ ဖွင့်ဆိုထားတာ တွေ့ရပါလိမ့်မယ်။ Merriam Webster's Collegiate dictionary ထဲမှာတော့ "disagreeable atmospheric conditions such as rain, storm, cold air with dampness" လို့ ထပ်ပြီးဖွင့်ဆိုထားပါတယ်။ အဲဒီတော့ "ရာသီဥတုဆိုး" လို့ပဲ တစ်ခါတည်း ပြန်လိုက်တာပါ။ ပြီးတော့ "deal with" ဆိုတာ ပြဿနာတစ်ခုကို ကိုင်တွယ်ဖြေရှင်းတယ်လို့ အဓိပ္ပါယ်ရပါတယ်။ "deal with weather" ကို "ရာသီဥတုဆိုးထဲ သွားလာတယ်" လို့ အဆင်ပြေအောင် ပြန်ဆိုထားခြင်းဖြစ်ပါတယ်။ မိုက်ကယ်ဝီလ်ဆင်ဟာ ကမ္ဘာကျော် New York Times သတင်းစာက သတင်းထောက်တစ်ယောက်ဖြစ်ပါတယ်။ အခုဆောင်းပါးလေးက NYT ထဲကဆောင်းပါးကို ကိုးကားပြောထားတာဖြစ်လို့ "မိုက်ကယ်ဝီလ်ဆင်က ပြောပါတယ်" ဆိုပြီး ထည့်သုံးထားခြင်းဖြစ်ပါတယ်။        
+                </div>
+            </div>
+            <br>
+            <p>
+                But not weather like this.<br>
+                ဒါပေမယ့် ဒီလိုမျိုးရာသီဥတုတော့ မဟုတ်ဘူးပေါ့။<br>
+                <br>
+                Last week,<br>
+                အရင်တစ်ပတ်က<br>
+                <br>
+                smoke from wildfires hundreds of miles away<br>
+                မိုင် ရာပေါင်းများစွာအကွာက တောမီးလောင်ရာကထွက်လာတဲ့ မီးခိုးငွေ့တွေဟာ<br>
+                <br>
+                enveloped the city, along with Boston and others on the east coast,<br>
+                အရှေ့ဘက်ကမ်းရိုးတန်းက ဘော်စတွန်နဲ့ အခြားမြို့များနှင့်အတူ ဒီမြို့(နူးယော့ခ်)ကို ဖုံးအုပ်ခဲ့ပါတယ်။<br>
+                <br>
+                in an acrid orange-grey haze.<br>
+                လိမ္မော်ရောင်မှိုင်းမှိုင်း မွှန်စေတဲ့မြူနဲ့
+            </p>                    
+            <p>
+                အခုဝါကျလေးကို အစကနေ ပြန်ကောက်ကြည့်ရအောင်
+            </p>
+            <div class="card">
+                <div class="card-body">
+                    Last week, smoke from wildfires hundreds of miles away enveloped the city, along with Boston and others on the east coast, in an acrid orange-grey haze.
+                    <hr class="dash2">
+                    အရင်တစ်ပတ်က မိုင် ရာပေါင်းများစွာအကွာက တောမီးလောင်ရာကထွက်လာတဲ့ မီးခိုးငွေ့တွေဟာ အရှေ့ဘက်ကမ်းရိုးတန်းက ဘော်စတွန်နဲ့ အခြားမြို့များနှင့်အတူ ဒီမြို့(နူးယော့ခ်)ကို လိမ္မော်ရောင်မှိုင်းမှိုင်း မွှန်စေတဲ့မြူနဲ့ ဖုံးအုပ်စေခဲ့ပါတယ်။
+                </div>
+            </div>
+            <br>
+            <p>
+                အခုဝါကျလေးထဲက မှတ်သားစရာလေးတွေကိုကြည့်ရအောင်
+            </p>
+            <div class="card">
+                <div class="card-body">
+                    "acrid" ဆိုတာက တာယာတွေကို မီးရှို့လိုက်တဲ့အခါ ထွက်လာတဲ့မီးခိုးငွေ့တွေရှူမိရင် ခံစားရတဲ့ စပ်တာလိုလို ခါးတာလိုလို အရသာမျိုးကို ပြောတာဖြစ်ပါတယ်။ အဲဒီအငွေ့တွေရှူမိရင် မွှန်သွားတယ်လို့ပြောပါတယ်။ "haze" က "မြူ" ကိုပြောတာပါ။ ဆောင်းတွင်းဘက် ညဘက်နဲ့ မနက်စောစောမှာ တစ်လောကလုံး မြူတွေဖုံးနေတာ မြင်ဖူးကြမယ်ထင်ပါတယ်။ မိုင်ပေါင်း ရာချီတဲ့အကွာအဝေးကနေလာတဲ့ မီးခိုးငွေ့တွေဟာ မြို့ကို လိမ္မော်ရောင်မှိုင်းမှိုင်း မြူတွေနဲ့ ဖုံးအုပ်သွားစေတယ်။ အပြင်ထွက်လို့ အဲဒီမြူငွေ့တွေ ရှူရှိုက်မိရင် မွှန်သွားမယ် လို့ပြောခြင်းဖြစ်ပါတယ်။
+                </div>
+            </div>
+            <br>
+            <p>
+                The air quality index for NYC<br>
+                နျူးယော့ခ်မြို့ရဲ့ လေအရည်အသွေးညွှန်းကိန်းဟာ ( ဘာဖြစ်တာလဲ )<br>
+                <br>
+                gradually rose from "Unhealthy" to "Very Unhealthy" to "Hazardous".<br>
+                "ကျန်းမာရေးအတွက်မကောင်း" မှ "ကျန်းမာရေးအတွက် အလွန်မကောင်း" ကနေ "အန္တရယ်ရှိ" အထိ တဖြည်းဖြည်း တက်သွားပါတယ်။<br>
+                <br>
+            </p>
+            <p>
+                အခုဝါကျလေးကို အစကနေ ပြန်ကောက်ကြည့်ရအောင်
+            </p>
+            <div class="card">
+                <div class="card-body">
+                    The air quality index for NYC gradually rose from "Unhealthy" to "Very Unhealthy" to "Hazardous".
+                    <hr class="dash2">
+                    နျူးယော့ခ်မြို့ရဲ့ လေအရည်အသွေးညွှန်းကိန်းဟာ "ကျန်းမာရေးအတွက်မကောင်း" မှ "ကျန်းမာရေးအတွက် အလွန်မကောင်း" ကနေ "အန္တရယ်ရှိ" အထိ တဖြည်းဖြည်း တက်သွားပါတယ်။
+                </div>
+            </div>
+            <br>
+            <p>အခုဝါကျလေးထဲက မှတ်သားစရာလေးတွေကိုကြည့်ရအောင်</p>
+            <div class="card">
+                <div class="card-body">
+                    NYC ဆိုတာ "New York City" ကို အတိုကောက်ရေးထားတာဖြစ်ပါတယ်။ ‌air quality index (AQI) ဆိုတာဟာ နေ့စဉ်ရှူရှိုက်နေတဲ့ လေရဲ့ အရည်အသွေးကို‌ဖော်ပြတဲ့ ညွှန်းကိန်းဖြစ်ပါတယ်။ ကိုယ်ရှူရှိုက်နေတဲ့လေဟာ ဘယ်လောက်သန့်ရှင်းလဲ ဒါမှမဟုတ် ဘယ်လောက်ညစ်ညမ်းလဲဆိုတာကို ဖော်ပြပေးပါတယ်။ AQI ကို အဆင့် 6 ဆင့် သတ်မှတ်ထားပါတယ်။ AQI ကို အရောင်၊ အဆင့်၊ ညွှန်းကိန်း သုံးမျိုးနဲ့ ဖော်ပြပါတယ်။ "Hazardous" ဟာ AQI မှာ နောက်ဆုံးအဆင့်ဖြစ်ပါတယ်။
+                </div>
+            </div>
+            <br>
+            <br>
+            <p>
+                At one point, it hit the worst level of any major city in the world.<br>
+                ကြားထဲမှာ လေအရည်အသွေးညွှန်းကိန်းဟာ ကမ္ဘာပေါ်ကမြို့ကြီးတွေထဲက အဆိုးဆုံးအဆင့် ရောက်သွားပါတယ်။<br>
+                <br>
+            </p>
+            <p>အခုဝါကျလေးထဲက မှတ်သားစရာလေးတွေကိုကြည့်ရအောင်</p>
+            <div class="card">
+                <div class="card-body">
+                    "At one point" ဆိုတာ ဘယ်အချိန်လဲလို့ သတ်သတ်မှတ်မှတ်မပြောဘဲ တစ်ချိန်ချိန်မှာ ဆိုတဲ့ တိကျမှုမရှိတဲ့အချိန်ကိုပြပါတယ်။ ဥပမာ နျူးယော့ခ်မြို့ကို မီးခိုးတွေဖုံးလွှမ်းနေတာ တစ်ပတ်ရှိပြီဆို မီးခိုးဖုံးလွှမ်းပြီး နှစ်ရက် (ဒါမှမဟုတ်) သုံးရောက်မြောက်နေ့ အဲဒီလိုအချိန်တစ်ခုခုကို ညွှန်းပါတယ်။ အဲဒါကြောင့် "ကြားထဲမှာ" လို့ ပြန်ဆိုလိုက်ခြင်းဖြစ်ပါတယ်။ "it" က AQI ကိုညွှန်းထားတာပါ။ 
+                </div>
+            </div>
+            <br>
+            <br>
+            <p>
+                Drivers put their headlights on at midday<br>
+                ကားမောင်းသူတွေဟာ နေ့ခင်းဘက်မှာ ရှေ့မီးတွေဖွင့်ထားကြတယ်<br>
+                <br>
+                as they struggled to see their way under the blotted-out sky.<br>
+                ပိတ်ဖုံးနေတဲ့ကောင်းကင်အောက်မှာ သူတို့သွားနေတဲ့လမ်းကို မနည်းမြင်အောင်ကြည့်ရင်း
+            </p>
+            <p>
+                အခုဝါကျလေးကို အစကနေ ပြန်ကောက်ကြည့်ရအောင်
+            </p>
+            <div class="card">
+                <div class="card-body">
+                    Drivers put their headlights on at midday as they struggled to see their way under the blotted-out sky. 
+                    <hr class="dash2">
+                    ပိတ်ဖုံးနေတဲ့ကောင်းကင်အောက်မှာ သူတို့သွားနေတဲ့လမ်းကို မနည်းမြင်အောင်ကြည့်ရင်း ကားမောင်းသူတွေဟာ နေ့ခင်းဘက်မှာ ရှေ့မီးတွေဖွင့်ထားကြတယ်။
+                </div>
+            </div>
+            <br>
+            <p>အခုဝါကျလေးထဲက မှတ်သားစရာလေးတွေကိုကြည့်ရအောင်</p>
+            <div class="card">
+                <div class="card-body">
+                    "midday" ဟာ "noon" နဲ့အဓိပ္ပါယ်အတူတူပါပဲ။ နေ့မွန်းတည့်ချိန် လို့မပြောဘဲ "နေ့ခင်းဘက်" လို့ပြန်ဆိုလိုက်တာ ပိုသင့်တော်ပါတယ်။ "struggle to do something" ဆိုတာ တစ်စုံတစ်ခုကို ခက်ခက်ခဲခဲလုပ်ရတယ်လို့ အဓိပ္ပါယ်ရပါတယ်။ "blotted-out" ဟာ "blot something out" ဆိုတဲ့ "phrasal verb" ကို participle adjective ပုံစံ သုံးထားခြင်းဖြစ်ပါတယ်။
+                </div>
+            </div>
+            <br>
+            <p>
+                Thousands of flights were grounded.<br>
+                လေကြောင်းခရီးစဉ်များစွာလည်း မထွက်နိုင်ကြပါဘူး။<br>
+            </p>
+            <p>
+                Pavements and playgrounds emptied<br>
+                ပလက်ဖောင်းပေါ်မှာ၊ ကစားကွင်းတွေမှာ လူမရှိတော့ပါဘူး<br>
+                <br>
+                as people opted to stay indoors,<br>
+                လူတွေဟာ အိမ်ထဲပဲနေဖို့ ရွေးချယ်ကြတယ်<br>
+                <br>
+                while many of those who ventured out wore masks.<br>
+                အပြင်ကို အရဲစွန့်ပြီးထွက်တဲ့လူတွေက မျက်နှာဖုံးတွေဝတ်ဆင်ကြတယ်
+            </p>
+            <p>
+                အခုဝါကျလေးကို အစကနေ ပြန်ကောက်ကြည့်ရအောင်
+            </p>
+            <div class="card">
+                <div class="card-body">
+                    Pavements and playgrounds emptied as people opted to stay indoors, while many of those who ventured out wore masks.
+                    <hr class="dash2">
+                    အပြင်အရဲစွန့်ပြီးထွက်တဲ့သူတွေက မျက်နှာဖုံးတွေဝတ်ဆင်ကြပေမယ့် လူအများစုကတော့ အိမ်ထဲပဲနေဖို့ ရွေးချယ်ကြတဲ့အတွက် ပလက်ဖောင်းပေါ်မှာ၊ ကစားကွင်းတွေမှာ လူသူကင်းမဲ့နေပါတယ်။
+                </div>
+            </div>
+            <br>
+            <p>အခုဝါကျလေးထဲက မှတ်သားစရာလေးတွေကိုကြည့်ရအောင်</p>
+            <div class="card">
+                <div class="card-body">
+                    "empty" ဟာ "become empty" လို့ အဓိပ္ပါယ်ရပါတယ်။ ဒီဝါကျဟာ "complex sentence" ဖြစ်ပြီး "as" နဲ့ "while" ဆိုတဲ့ "conjunction" နှစ်ခုကိုသုံးပြီး ဆက်ထားပါတယ်။
+                </div>
+            </div>
+            <br>
+            <br>
+            <p>
+                On Broadway, the play Prima Facie stopped ten minutes into the performance<br>
+                ပြဇာတ်ရုံမှာ "Prima Facie" ဆိုတဲ့ပြဇာတ်ကို ဆယ်မိနစ်လောက်ကပြအပြီးမှာ ရပ်လိုက်ပါတယ် ( ဘာလို့လဲ )<br>
+                <br>
+                after its star, Jodie Comer, experienced difficulty breathing.<br>
+                နာမည်ကျော်ဖျော်ဖြေတင်ဆက်သူ ဂျိုဒီကိုမာဟာ အသက်ရှူရခက်တာ ခံစားရပြီးနောက်<br>
+                <p>
+                    အခုဝါကျလေးကို အစကနေ ပြန်ကောက်ကြည့်ရအောင်
+                </p>
+                <div class="card">
+                    <div class="card-body">
+                        On Broadway, the play Prima Facie stopped ten minutes into the performance after its star, Jodie Comer, experienced difficulty breathing.
+                        <hr class="dash2">
+                        နာမည်ကျော်ဖျော်ဖြေတင်ဆက်သူ ဂျိုဒီကိုမာဟာ အသက်ရှူရခက်တာ ခံစားရပြီးနောက် ပြဇာတ်ရုံမှာ "Prima Facie" ဆိုတဲ့ပြဇာတ်ကို ဆယ်မိနစ်လောက်ကပြအပြီးမှာ ရပ်လိုက်ပါတယ်။ 
+                    </div>
+                </div>
+                <br>
+                <p>အခုဝါကျလေးထဲက မှတ်သားစရာလေးတွေကိုကြည့်ရအောင်</p>
+                <div class="card">
+                    <div class="card-body">
+                        "Broadway" ဆိုတာ ပြဇာတ်ရုံတွေအများကြီးရှိတဲ့ နျူးယော့ခ်မြို့က လမ်းတစ်လမ်းရဲ့အမည်ဖြစ်ပါတယ်။ အမေရိကန်ပြဇာတ်လောကကိုလည်း "Broadway" လို့ပဲခေါ်ပါတယ်။ ရုပ်ရှင်လောကကို "Hollywood" လို့ခေါ်သလိုမျိုးပေါ့။ "on Broadway" ကို "ဘရော့ဒ်ဝေးမှာ" လို့ မပြောတော့ဘဲ "ပြဇာတ်ရုံမှာ" လို့ပဲ ပြန်ဆိုလိုက်ပါတယ်။ 
+                    </div>
+                </div>
+            </p>
+            <div><span class="text-primary font-weight-bold">Source :</span>
+                <span class="font-weight-bold">The Week Magazine</span></div>
+            <hr>
+            <p class="text-center"><span class="font-weight-bold">English Learners' Treasure Trove by Win Zaw Tun (Mogok)</span></p>
+            <hr>
+        </div>
+    </body>
+</html>
